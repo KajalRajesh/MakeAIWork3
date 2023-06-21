@@ -1,0 +1,48 @@
+,zoom,name,abbreviation,Code,ISO numeric,land area km,population,latitude,longitude,continent,groups
+0,3,Ukraine,Ukr.,UKR,804,603700.0,45415596,49.0,32.0,eu,others
+1,3,France,Fr.,FRA,250,547030.0,64768389,46.0,2.0,eu,others
+2,3,Spain,Spain,ESP,724,504782.0,46505963,40.0,-4.0,eu,others
+3,3,Sweden,Swe.,SWE,752,449964.0,9045000,62.0,15.0,eu,others
+4,3,Germany,Ger.,DEU,276,357021.0,82369000,51.5,10.5,eu,others
+5,3,Finland,Fin.,FIN,246,337030.0,5244000,64.0,26.0,eu,nordics
+6,3,Norway,Nor.,NOR,578,324220.0,4907000,62.0,10.0,eu,nordics
+7,3,Poland,Pol.,POL,616,312685.0,38500000,52.0,20.0,eu,others
+8,3,Italy,Italy,ITA,380,301230.0,58145000,42.83,12.83,eu,others
+9,3,United Kingdom,U.K.,GBR,826,244820.0,62348447,54.9,-3.12,eu,others
+10,3,Romania,Rom.,ROU,642,237500.0,21959278,46.0,25.0,eu,others
+11,3,Belarus,Bela.,BLR,112,207600.0,9685000,53.0,28.0,eu,others
+12,3,Greece,Grc.,GRC,300,131940.0,11000000,39.0,22.0,eu,others
+13,3,Bulgaria,Blg.,BGR,100,110910.0,7148785,43.0,25.0,eu,others
+14,3,Iceland,Ice.,ISL,352,103000.0,308910,65.0,-18.0,eu,nordics
+15,3,Portugal,Port.,PRT,620,92391.0,10676000,39.5,-8.0,eu,others
+16,3,Czech Republic,Czech Rep.,CZE,203,78866.0,10476000,49.75,15.0,eu,others
+17,3,Denmark,Den.,DNK,208,43094.0,5484000,56.0,10.0,eu,nordics
+18,4,Hungary,Hung.,HUN,348,93030.0,9930000,47.0,20.0,eu,others
+19,4,Serbia,Serb.,SRB,688,88361.0,7344847,44.82,20.46,eu,others
+20,4,Austria,Aus.,AUT,40,83858.0,8205000,47.33,13.33,eu,others
+21,4,Ireland,Ire.,IRL,372,70280.0,4622917,53.0,-8.0,eu,others
+22,4,Lithuania,Lith.,LTU,440,65200.0,3565000,56.0,24.0,eu,baltics
+23,4,Latvia,Lat.,LVA,428,64589.0,2217969,57.0,25.0,eu,baltics
+24,4,Croatia,Cro.,HRV,191,56542.0,4491000,45.17,15.5,eu,others
+25,4,Bosnia and Herzegovina,Bos.,BIH,70,51129.0,4590000,44.25,17.83,eu,others
+26,4,Slovakia,Slvk.,SVK,703,48845.0,5455000,48.67,19.5,eu,others
+27,4,Estonia,Est.,EST,233,45226.0,1291170,59.0,26.0,eu,baltics
+28,4,Netherlands,Neth.,NLD,528,41526.0,16645000,52.5,5.75,eu,benelux
+29,4,Switzerland,Switz.,CHE,756,41290.0,7581000,47.0,8.01,eu,others
+30,4,Moldova,Mol.,MDA,498,33843.0,4324000,47.0,29.0,eu,others
+31,4,Belgium,Bel.,BEL,56,30510.0,10403000,50.83,4.0,eu,benelux
+32,4,Albania,Alb.,ALB,8,28748.0,2986952,41.0,20.0,eu,others
+33,4,Macedonia,Mac.,MKD,807,25333.0,2061000,41.83,22.0,eu,others
+34,4,Slovenia,Slvn.,SVN,705,20273.0,2007000,46.25,15.17,eu,others
+35,4,Montenegro,Mont.,MNE,499,14026.0,666730,43.5,19.3,eu,others
+36,4,Cyprus,Cyp.,CYP,196,9250.0,1102677,35.0,33.0,asia,others
+37,4,Luxembourg,Lux.,LUX,442,2586.0,497538,49.75,6.17,eu,benelux
+38,4,Faroe Is.,Far. Is.,FRO,234,1399.0,48228,62.0,-7.0,eu,others
+39,4,Andorra,And.,AND,20,468.0,84000,42.5,1.5,eu,others
+40,4,Malta,Malta,MLT,470,316.0,403000,35.92,14.43,eu,others
+41,4,Liechtenstein,Liech.,LIE,438,160.0,35000,47.17,9.53,eu,others
+42,4,Guernsey,Guern.,GGY,831,78.0,65228,49.58,-2.33,eu,others
+43,4,San Marino,S. Mar.,SMR,674,61.2,31477,43.93,12.42,eu,others
+44,4,Gibraltar,Gib.,GIB,292,6.5,27884,36.13,-5.35,eu,others
+45,4,Monaco,Monaco,MCO,492,2.0,32965,43.73,7.42,eu,others
+46,4,Vatican City,Vatican City,VAT,336,0.4,921,41.9,12.45,eu,others
