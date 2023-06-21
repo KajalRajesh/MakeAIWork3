@@ -3,3 +3,13 @@ env/Lib/site-packages
 env/share/jupyter/
 practica/pics/
 env/
+images/
+Dataset/
+Dataset/
+practica/Lessen/02. Data augementatie/Practicum/industrial_2x.jpg
+practica/Lessen/02. Data augementatie/Practicum/industrial_2x_rot_gray.jpg
+practica/Lessen/02. Data augementatie/Practicum/industrial_2x_rot.jpg
+practica/image_processing/pytorch/.ipynb_checkpoints/
+practica/image_processing/numpy/.ipynb_checkpoints/numpy_opdracht2-hans-checkpoint.ipynb
+integratedModel_chatbot.ipynb
+integratedModel_chatbot.ipynb
