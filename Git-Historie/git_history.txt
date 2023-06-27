@@ -1,0 +1,9 @@
+59b7e35 (HEAD -> main, origin/main, MakeAIWork3/main) project3_makeindustry
+0912b12 project_makeindustry
+a588cce project_makeindustry
+060c4a4 project_makeindustry
+4405799 practica_project trial
+334238d project_trials
+909d91c project_deMaakIndustrie
+2320db2 practica
+:
