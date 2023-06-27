@@ -13,3 +13,16 @@ practica/image_processing/pytorch/.ipynb_checkpoints/
 practica/image_processing/numpy/.ipynb_checkpoints/numpy_opdracht2-hans-checkpoint.ipynb
 integratedModel_chatbot.ipynb
 integratedModel_chatbot.ipynb
+build/
+build/
+dist/
+myenv/Lib/site-packages/pip/_internal/
+myenv/Lib/site-packages/_distutils_hack/
+myenv/Lib/site-packages/pip/_vendor/
+myenv/Lib/site-packages/pip/__pycache__/__main__.cpython-310.pyc
+myenv/Lib/site-packages/pip-23.0.1.dist-info/
+myenv/Lib/site-packages/setuptools/_distutils/
+myenv/Lib/site-packages/setuptools-65.5.0.dist-info/LICENSE
+
+Data/Dataset.zip
+.gitignore
